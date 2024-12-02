@@ -1,8 +1,8 @@
 {
-  "items":{
+  "items":[{
     "id":1,
     "name":"hridyesh sharma",
     "branch":"computer science engineering",
     "role":"assistant professor"
-  }
+  }]
 }
